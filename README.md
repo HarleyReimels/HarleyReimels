@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Harley Reimels! 👋
 
-<!--
-**HarleyReimels/HarleyReimels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Harley's GitHub stats](https://github-readme-stats.vercel.app/api?username=harleyreimels&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/harley-reimels)
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,cpp,js,java)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=flask&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,jira)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode)
